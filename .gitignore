@@ -1,0 +1,7 @@
+*.apk
+*.sln
+*.csproj
+.vscode
+Library
+Temp
+
